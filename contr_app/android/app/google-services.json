@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1082618226150",
+    "firebase_url": "https://test-contrapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "test-contrapp",
+    "storage_bucket": "test-contrapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082618226150:android:c69c336fc4e9470a096227",
+        "android_client_info": {
+          "package_name": "com.example.contra_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5nqM9pBwFnuDd3Hcqv9oouXKoCVY94gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
